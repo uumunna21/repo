@@ -99,7 +99,7 @@ public class CryptoManager {
     public static void main(String[] args) {
         // Test cases to demonstrate the functionality
 
-        String plainText = "bye";
+        String plainText = "HELLO";
         int caesarKey = 3;
         String bellasoStr = "CAT";
 
