@@ -1,6 +1,6 @@
 /*
  * Class: CMSC203 
- * Instructor: Khsndan Monshi
+ * Instructor: Khandan Monshi
  * Description: Create two classes, one that manipulates a two-dimensional ragged 
  * array of doubles and one that will calculate holiday bonuses given a ragged array 
  * of doubles.
